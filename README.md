@@ -27,3 +27,5 @@ For the relationships between tables:
 * An Author will have more than one book in the library
 * A Book can be about multiple Subjects
 * Subjects will be reused for multiple books
+
+__Ask any clarifying questions you need before getting started. When you're done with all the assessments, you will present the erd during your interview__
